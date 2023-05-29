@@ -1,0 +1,1 @@
+{"Get by id":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"d27de714d54eea1e","reportUrl":"https://VladeCV.github.io/specflow_report/4//#testresult/d27de714d54eea1e","status":"passed","time":{"start":1685402309819,"stop":1685402310187,"duration":368}}]}}
